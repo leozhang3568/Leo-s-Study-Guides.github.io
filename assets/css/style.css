@@ -213,12 +213,11 @@ body {
 }
 
 a {
-    color: #0366d6;
-    text-decoration:none
+    color: rgb(0, 128, 0);
 }
-
 a:hover {
-    text-decoration:underline
+    color: rgb(0, 73, 0);
+    text-decoration: none;
 }
 
 b, strong {
