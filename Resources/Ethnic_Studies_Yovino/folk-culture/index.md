@@ -10,7 +10,7 @@ layout: folk
 
 &nbsp; &nbsp; &nbsp; &nbsp; While living with a Romani Gypsy, you would enjoy horse-drawn wagons, symbolizing their historic culture. You would also be introduced to their unfinished houses. Don’t criticize those for being eccentric. Their top levels are left unfinished for their children or grandchildren to finish, so each house needs to be built for several generations.
 
----
+<hr style="border: 3px solid black;" />
 
 [https://travellermovement.org.uk/gypsy-roma-and-traveller-history-and-culture](https://travellermovement.org.uk/gypsy-roma-and-traveller-history-and-culture)
 
