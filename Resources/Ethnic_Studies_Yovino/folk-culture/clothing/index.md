@@ -1,3 +1,8 @@
+---
+title: Romani Gypsy - Clothing
+layout: folk
+---
+
 # Clothing
 
 Sample Text here
