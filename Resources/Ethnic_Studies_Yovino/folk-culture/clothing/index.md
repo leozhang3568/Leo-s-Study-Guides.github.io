@@ -1,6 +1,8 @@
 ---
 title: Romani Gypsy - Clothing
 layout: folk
+author: Leo, Duke, Praneel
+description: Introduction to Romani Gypsy
 ---
 
 # Clothing
