@@ -11,12 +11,15 @@ description: Introduction to Romani Gypsy
 
 <div class="center-block">
 
-![Romani clothing worn by men](https://upload.wikimedia.org/wikipedia/commons/7/78/Noisy_Gypsies_in_Transylvania%2C_1865.jpg)
 
-![Romani clothing worn by women](https://upload.wikimedia.org/wikipedia/commons/7/7d/Gypsy_woman_%281883%29%2C_by_Gabriele_Brunati.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Noisy_Gypsies_in_Transylvania%2C_1865.jpg" alt="Romani clothing worn by men">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Gypsy_woman_%281883%29%2C_by_Gabriele_Brunati.jpg" alt="Romani clothing worn by women">
+
 
 
 </div>
+
 ---
 
 [https://en.wikipedia.org/wiki/Romani\_dress](https://en.wikipedia.org/wiki/Romani_dress)

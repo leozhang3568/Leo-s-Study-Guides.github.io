@@ -13,7 +13,7 @@ layout: folk
 
 <div class="center-block">
 
-![romani gypsies everyday life](https://travellermovement.org.uk/static/42780adf4f440c67a50a908e36f22462/2ea05/Pavee-Ceilidh.avif)
+<img src="https://travellermovement.org.uk/static/42780adf4f440c67a50a908e36f22462/2ea05/Pavee-Ceilidh.avif" alt="romani gypsies everyday life">
 
 </div>
 
