@@ -17,7 +17,12 @@ layout: folk
 
 ## Video Example
 
+
+<div class="center-block">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNGhbSstYeg?si=w8kYB9_Dt2SRflIk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
 
 ---
 
