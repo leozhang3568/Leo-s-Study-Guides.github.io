@@ -13,6 +13,12 @@ layout: folk
 
 </div>
 
+&nbsp; &nbsp; &nbsp; &nbsp; The Patriarchal Cathedral also embodies Romani culture.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z6aeQbqSVHk?si=2vErveV1joTWzs_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <i>Watch in YouTube for full effect</i>.
+
+&nbsp; 
+
 &nbsp; &nbsp; &nbsp; &nbsp; When it comes to traditional architecture, the Romani Gypsies almost always focus on history. Their five-storied mansions consists of gold-painted columns, glass doors, and intricate geometry emblazoned on the walls. One kind of architecture, called *Kastellos*, are locatted in major Romanian cities such as Bucharest and Buzescu and are unique and not commonly   
 seen.
 

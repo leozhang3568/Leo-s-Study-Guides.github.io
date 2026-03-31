@@ -16,7 +16,7 @@ layout: folk
 
 </div>
 
-International Romani Day, April 8th, 2025.
+<div style="text-align: center;"><i>International Romani Day, April 8th, 2025.</i></div>
 
 ---
 
