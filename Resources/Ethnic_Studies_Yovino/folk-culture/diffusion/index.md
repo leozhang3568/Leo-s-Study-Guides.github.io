@@ -3,7 +3,7 @@ title: Romani Gypsy - Diffusion
 layout: folk
 ---
 
-# Diffusion \- has this culture spread to other places?  Has pop culture made its way into your folk culture?
+# Diffusion <!-- has this culture spread to other places?  Has pop culture made its way into your folk culture?-->
 
 &nbsp; &nbsp; &nbsp; &nbsp; In 250 B.C.E., the Romani Gypsies might have migrated north to present-day Punjab from present-day Sindh and Rajasthan (in or around India). In the 5th and 8th century, they began settling in Persia and Armenia, respectively. During the Byzantine era (around the Middle Ages), they migrated to Balkans in southeastern Europe. After that, the people began spreading all over Europe.
 
@@ -15,7 +15,12 @@ layout: folk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VWR1zB5H9uY?si=KF_6-Nd4VEySvzKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+&nbsp; &nbsp; &nbsp; &nbsp; Non-Gypsies often include Romani Gypsies in pop culture. In the media, the Romani Gypsies are immensly stereotyped, and many characters are made by Europeans to depict them as thieves and black magicians. As a result, the Romani Gypsies were enslaved, discrimminated against, hanged, deported, and exterminated.
+
+
 ---
+
+[https://en.wikipedia.org/wiki/Anti-Romani_sentiment#:~:text=Romani%20people%20are%20sometimes%20considered,black%20magic%2C%20fraud%20and%20prostitution.](https://en.wikipedia.org/wiki/Anti-Romani_sentiment#:~:text=Romani%20people%20are%20sometimes%20considered,black%20magic%2C%20fraud%20and%20prostitution.)
 
 [https://en.wikipedia.org/wiki/History\_of\_the\_Romani\_people](https://en.wikipedia.org/wiki/History_of_the_Romani_people)
 

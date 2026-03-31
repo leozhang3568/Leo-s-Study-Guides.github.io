@@ -9,6 +9,8 @@ layout: folk
 
 ## Recipe for Traditional Romani Lemon Bread
 
+![](https://therecipecritic.com/wp-content/uploads/2020/05/lemonbreadhero.jpg)
+
 ### Ingredients
 
 “1 2/3 cups all purpose flour  
