@@ -10,6 +10,20 @@ layout: folk
 
 &nbsp; &nbsp; &nbsp; &nbsp; While living with a Romani Gypsy, you would enjoy horse-drawn wagons, symbolizing their historic culture. You would also be introduced to their unfinished houses. Don’t criticize those for being eccentric. Their top levels are left unfinished for their children or grandchildren to finish, so each house needs to be built for several generations.
 
+<div class="study-guide-box">
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/origins-of-the-culture/index.html" class="button">Origin</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/music/index.html" class="button">Music</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/clothing" class="button">Clothing</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/food/index.html" class="button">Food</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/landscape/index.html" class="button">Landscape</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/diffusion/index.html" class="button">Diffusion</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/religion/index.html" class="button">Religion</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/taboos/index.html" class="button">Taboos</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/language/index.html" class="button">Language</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/society/index.html" class="button">Society/Social Structure</a>
+    <a href="/Leo-s-Study-Guides.github.io/Resources/Ethnic_Studies_Yovino/folk-culture/holidays-and-celebrations/index.html" class="button">Holidays & Celebrations</a>
+</div>
+
 ---
 
 [https://travellermovement.org.uk/gypsy-roma-and-traveller-history-and-culture](https://travellermovement.org.uk/gypsy-roma-and-traveller-history-and-culture)
