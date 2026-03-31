@@ -9,6 +9,15 @@ layout: folk
 	  
 &nbsp; &nbsp; &nbsp; &nbsp; Each year on January 14th, which is considered new year in old Bulgarian Roma calendars, some Romani Gypsies celebrate Bango Vasil (translates to “crooked Vasil”), a saint who rescued a tribe of theirs from drowning. According to tradition, the Devil broke a bridge that they were crossing, so they all fell into the river underneath. Shortly afterward, Vasil sent geese to “pluck” the tribe from the river and bring them to land.
 
+<div class="center-block">
+
+<img src="https://romea.cz/_next/image?url=https%3A%2F%2Fromea.cz%2Fapp%2Fuploads%2F2025%2F04%2FMDR-112.jpg&w=3840&q=75">
+
+
+</div>
+
+International Romani Day, April 8th, 2025.
+
 ---
 
 [https://www.gypsy-traveller.org/heritage/gypsy-roma-and-traveller-heritage-days/\#:\~:text=There%20are%20several%20holidays%20that%20are%20significant,ethnic%20minority%20status%20in%20Ireland\*\*%20March%201st](https://www.gypsy-traveller.org/heritage/gypsy-roma-and-traveller-heritage-days/#:~:text=There%20are%20several%20holidays%20that%20are%20significant,ethnic%20minority%20status%20in%20Ireland**%20March%201st)
@@ -16,3 +25,5 @@ layout: folk
 [https://www.theskyandearthknow.com/p/feast-and-forgive-a-few-sacred-customs](https://www.theskyandearthknow.com/p/feast-and-forgive-a-few-sacred-customs)
 
 [https://www.everyculture.com/wc/Norway-to-Russia/Roma.html\#:\~:text=6%20%E2%80%A2%20MAJOR%20HOLIDAYS.,cracking%20or%20crushing%20both%20eggs.](https://www.everyculture.com/wc/Norway-to-Russia/Roma.html#:~:text=6%20%E2%80%A2%20MAJOR%20HOLIDAYS.,cracking%20or%20crushing%20both%20eggs.)
+
+[https://romea.cz/_next/image?url=https%3A%2F%2Fromea.cz%2Fapp%2Fuploads%2F2025%2F04%2FMDR-112.jpg&w=3840&q=75](https://romea.cz/_next/image?url=https%3A%2F%2Fromea.cz%2Fapp%2Fuploads%2F2025%2F04%2FMDR-112.jpg&w=3840&q=75)
