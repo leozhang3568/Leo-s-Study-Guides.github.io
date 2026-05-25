@@ -92,15 +92,20 @@
         }
 
         .red_button {
-            display: inline-block;
-            background-color: rgb(255, 175, 175);
+			display: inline-block;
+            background-color: light-red;
             color: black;
             padding: 10px 20px;
             text-decoration: none;
             border-radius: 20px;
             font-size: 16px;
-            transition: 0.3s;
-            margin: 5px;
+            transition: 0.5s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
+            box-shadow:  -6px 5px 5px rgba(0,0,0,0.4); /* Add shadow for depth */
+            border: 5px solid green;
+            animation: DropIn 1s ease forwards; /* Animation for button appearance */
         }
 
         .red_button:hover {
