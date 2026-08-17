@@ -4,12 +4,26 @@ title: AP CSA Notes - 8/17/2026
 
 # AP CSA Notes - 8/17/2026
 
-## Java Setup
+## Setup
 
-```py
+```java
 public class Main {
     public static void main(String [] args) {
         System.out.println("Hello World!");
         System.out.println("Leo");
     }
 }
+```
+
+## Importing
+
+Use `import package.subpackage.ClassName;` to import packages.
+Use `import package.subpackage.*` to import all classes and interfaces inside the sub package (DOES NOT) import any deeper subpackage classes.
+
+---
+
+```java
+import static package.subpackage.ClassName.staticMember;
+import static package.subpackage.ClassName.*;
+```
+With this, no need to type prefixes like `Math.PI`.
