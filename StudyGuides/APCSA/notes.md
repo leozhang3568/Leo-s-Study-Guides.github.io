@@ -1,5 +1,5 @@
 ---
-title: AP CSA Notes - 8/17/2026
+title: AP CSA Notes
 ---
 
 # AP CSA Notes - 8/17/2026
@@ -27,3 +27,16 @@ import static package.subpackage.ClassName.staticMember;
 import static package.subpackage.ClassName.*;
 ```
 With this, no need to type prefixes like `Math.PI`.
+
+## Karel/Library Syntax
+
+```java
+
+    Robot karel = new Robot(5,1,East,9); \\"karel" is at (5,1), facing East, 9 px.
+    World.setVisible(true);
+    World.setSize(10,10);
+    World.setDelay(100);
+
+```
+
+`()` denote **methods** or **functions**. `karel` is an **object**.
