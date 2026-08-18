@@ -32,7 +32,8 @@ With this, no need to type prefixes like `Math.PI`.
 
 ```java
 
-    Robot karel = new Robot(5,1,East,9); \\"karel" is at (5,1), facing East, 9 px.
+    Robot karel = new Robot(5,1,East,9);
+    \\"karel" is at (5,1), facing East, 9 px.
     World.setVisible(true);
     World.setSize(10,10);
     World.setDelay(100);
@@ -40,3 +41,16 @@ With this, no need to type prefixes like `Math.PI`.
 ```
 
 `()` denote **methods** or **functions**. `karel` is an **object**.
+
+## Methods
+
+To make new methods, make sure that they are related outside of a method and inside of the class. Use the format `______methodName____(____Parameter/input___){}`.
+
+```java
+
+public static void turnRight(robot r){
+\\ the data type should be specified to prevent crashing.
+    
+}
+
+```
