@@ -2,7 +2,7 @@
 title: AP CSA Notes
 ---
 
-# AP CSA Notes - 8/17/2026
+# AP CSA Notes
 
 ## Setup
 
@@ -54,3 +54,32 @@ public static void turnRight(robot r){
 }
 
 ```
+
+
+## Data Types
+
+Used to tell the computer what classification the variable is.
+
+### Primitive Data Types
+
+Simple data types
+
+- int
+- double (decimals)
+- boolean
+- char (character)
+
+### Objects
+
+Objects can perform methods.
+
+- string
+
+Use 
+
+```java
+int num;
+```
+to declare a variable called "num" that has data type 'int'.
+
+Use **camelCase** when naming a variable.S
