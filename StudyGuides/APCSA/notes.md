@@ -82,4 +82,11 @@ int num;
 ```
 to declare a variable called "num" that has data type 'int'.
 
-Use **camelCase** when naming a variable.S
+Use **camelCase** when naming a variable.
+
+### Formatting
+
+```java
+system.out.println("The temperature is " + temperature)
+```
+
