@@ -15,6 +15,9 @@ public class Main {
 }
 ```
 
+`ln` places a `\n` after the end of the string.
+
+
 ## Importing
 
 Use `import package.subpackage.ClassName;` to import packages.
@@ -90,3 +93,8 @@ Use **camelCase** when naming a variable.
 system.out.println("The temperature is " + temperature)
 ```
 
+## Math
+
+### Remainder vs. Mod
+
+Remainder truncates toward zero. Modulo truncates toward negative infinity.
