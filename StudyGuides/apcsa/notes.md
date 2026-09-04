@@ -136,3 +136,5 @@ public class MathNReturns {
 
 }
 ```
+
+Methods can also have data types that the method returns.

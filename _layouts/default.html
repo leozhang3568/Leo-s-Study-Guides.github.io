@@ -15,6 +15,16 @@
     <title>Leo's Study Guides</title>
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="https://leozhang3568.github.io/Leo-s-Study-Guides.github.io/assets/css/webstyle.css">
+          <!-- KaTeX CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+
+    <!-- KaTeX JS -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+
+    <!-- Auto-render extension -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
+            onload="renderMathInElement(document.body);"></script>
+        
     <style>
         main {
             text-align: left;
@@ -67,6 +77,7 @@
             <div class="container-lg px-3 my-5 markdown-body">
             
             {{ content }}
+
             
             </div>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
