@@ -138,3 +138,10 @@ public class MathNReturns {
 ```
 
 Methods can also have data types that the method returns.
+
+## Methods + Variables Concepts
+
+**scope**: The region of the program where a variable is accessable.
+
+**instance variable**: An instance variable is a variable created as a non-static variable. It is created outside of any methods, but inside the class.
+
