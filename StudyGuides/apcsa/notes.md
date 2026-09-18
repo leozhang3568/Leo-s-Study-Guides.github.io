@@ -1,6 +1,14 @@
 ---
 title: AP CSA Notes
 ---
+<style>
+    a {
+        color: green;
+    }
+    a:hover {
+        color: lightgreen;
+    }
+</style>
 
 # AP CSA Notes
 
@@ -145,3 +153,71 @@ Methods can also have data types that the method returns.
 
 **instance variable**: An instance variable is a variable created as a non-static variable. It is created outside of any methods, but inside the class.
 
+## Strings
+
+string literal vs string class
+
+### String Literal
+
+```java
+String state = "Maine";
+```
+
+### String Constructor
+
+```java
+String state = new String("Maine");
+```
+
+### Concatenation
+
+appending a string to the end of another.
+
+```java
+mystring = mystring.concat("something else");
+```
+
+Strings are **immutable**, so they create a new one with String methods. This does not replace the original reference. Therefore, point it back to the original string so that the version from before is automatically discarded.
+
+`+=` and `+` can be used to concatenate strings.
+
+### String Methods
+
+#### Comparators
+
+```java
+s1.compareTo(s2);
+```
+
+s2 after s1 returns negative
+
+s2 before s1 returns positive
+
+equal returns 0.
+
+#### Length
+
+```java
+lengthOfS1 = s1.length();
+```
+
+#### Substring
+
+```java
+aSubstring = s1.substring(firstIndex,lastIndex);
+```
+
+#### indexOf
+
+```java
+int indexOf(String str);
+```
+Returns the index of the first occurence of `str`; returns `-1` if not found.
+
+### Implicit Type Concatenation
+
+a primitive type can be concatenated to a string. Ex. The int is implicitly converted to a string before the `+` operator is applied.
+
+## API
+
+[Java API Documentation](https://docs.oracle.com/javase/8/docs/api/)
