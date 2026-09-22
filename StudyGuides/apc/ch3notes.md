@@ -1,5 +1,6 @@
 ---
 title: AP Calculus BC Chapter 3 Guided Notes
+author: Leo Zhang
 ---
 
 # AP Calculus BC Chapter 3 Guided Notes
