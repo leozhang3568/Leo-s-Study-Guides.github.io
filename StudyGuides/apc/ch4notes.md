@@ -11,3 +11,7 @@ To find the average y-value of a function over an interval [a,b], use the **aver
 $$f_{\text{avg}}=\frac{1}{b-a}\int _{a}^{b}f(x)\,dx$$
 
 The formula works in roughly the same way as calculating the mean of a set of numbers.
+
+## Integral of 1/x
+
+$\int_{0}^{x} \frac{1}{x} = \ln(|x|)$
