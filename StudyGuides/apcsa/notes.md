@@ -103,6 +103,12 @@ system.out.println("The temperature is " + temperature)
 
 ## Math
 
+### Static vs Non-static
+
+Non-static methods require class name + dot + method
+
+Static methods just goes to the class and uses the method.
+
 ### Remainder vs. Mod
 
 Remainder truncates toward zero. Modulo truncates toward negative infinity.
@@ -151,7 +157,9 @@ Methods can also have data types that the method returns.
 
 **scope**: The region of the program where a variable is accessable.
 
-**instance variable**: An instance variable is a variable created as a non-static variable. It is created outside of any methods, but inside the class.
+**instance variable**: An instance variable is a variable created as a non-static variable. It is created outside of any methods, but inside the class. Make all instance variables private so that only the current class can change it.
+
+**constructor**: special method that creates the object.
 
 ## Strings
 
@@ -434,3 +442,7 @@ a primitive type can be concatenated to a string. Ex. The int is implicitly conv
 
 
 ```
+
+
+---
+
