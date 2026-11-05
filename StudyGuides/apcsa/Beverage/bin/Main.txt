@@ -1,0 +1,25 @@
+
+public class Main {
+    public static void main(String [] args) {
+        String[] myString = {"coke", "oj", "boba", "water"};
+        System.out.println(randName(myString));
+        Beverage[] myFridge = new Beverage[4];
+        myFridge[0] = new Beverage(randName(myString),20);
+        myFridge[1] = new Beverage(randName(myString),20);
+        myFridge[3] = new Beverage(randName(myString),20);
+
+        for (int i = 0; i < myFridge.length;i++) {
+            if (myFridge[i] != null) {
+                myFridge[i].drink();
+            }
+        }
+    }
+
+
+
+    //Write a new method called randName that will take a String Array Parameter and return a random string from there.
+    public static String randName(String[] str) {
+        int randomIndex = (int) (Math.random() * str.length);
+        return str[randomIndex];
+    }
+}
