@@ -1,3 +1,16 @@
+<head>
+        <!-- KaTeX CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+
+<!-- KaTeX JS -->
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+
+<!-- Auto-render extension -->
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
+        onload="renderMathInElement(document.body);"></script>
+    
+</head>
+
 # AP Calculus BC - Chapter 6 Notes
 
 ## Integrating with $u$-sub
@@ -10,9 +23,9 @@ $$
 \int \frac{ln(x)}{x} dx
 $$
 
-Use $u$-substitution: $u = \ln(x)$
+Use \(u\)-substitution: \(u = \ln(x)\)
 
-$\int \frac{ln(x)}{x} dx = \int u \cdot \frac{1}{x} dx = \int u \cdot du = \frac{u^2}{2} + C = \frac{\ln^2{(x)}}{2} + C$
+\(\int \frac{ln(x)}{x} dx = \int u \cdot \frac{1}{x} dx = \int u \cdot du = \frac{u^2}{2} + C = \frac{\ln^2{(x)}}{2} + C\)
 
 ### Rational function
 
