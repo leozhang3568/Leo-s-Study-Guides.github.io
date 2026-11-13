@@ -23,4 +23,4 @@ Use polynomial division (synthetic division, in this case).
 
 $=\int (x - 1 + \frac{1}{x+1})dx$
 
-$=\frac{1}{2} x^2 - x + \ln(|x+1|) + C$
+$=\frac{1}{2} x^2 - x + \ln(\lvert x+1\rvert) + C$
