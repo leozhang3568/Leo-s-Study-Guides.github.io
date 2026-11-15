@@ -54,7 +54,9 @@ $$\frac{dy}{dx} = -\frac{\frac{24}{5} x^7 y - 5y}{\frac{3}{5}x^8 - 5x - 8}$$
 
 $$\frac{3}{5}(8x^7 y + x^8 y') = 8y'+5(xy'+y)$$
 
-The derivative of $y$ becomes $y'$. We don't differentiate $x$ using the chain rule.
+The derivative of $y$ becomes $y'$. We don't differentiate $x$ using the chain rule. All we have to do is isolate $y'$!!
+
+<br>
 
 $$\frac{24}{5} x^7 y - 5y = 8y'+5xy' - \frac{3}{5} x^8 y' = y'(8+5x-\frac{3}{5} x^8)$$
 
